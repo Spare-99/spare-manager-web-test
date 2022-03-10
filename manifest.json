@@ -1,7 +1,7 @@
 {
     "name": "spare99_manager_app",
     "short_name": "spare99_manager_app",
-    "start_url": ".",
+    "start_url": "./spare-manager-web-test",
 
     "display": "standalone",
     "background_color": "#0175C2",
